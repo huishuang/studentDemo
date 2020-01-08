@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c31836c-f626-4626-b505-e2df25f36669" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RdCfNaOIS8swMVcYWxrOry46Wo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/StudentSystem-master/StudentSystem/src/indi/wrenn/studentsystem" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SpringBootTest\src\main\resources\static\asserts\js" />
+      <recent name="D:\SpringBootTest\src\main\resources\static\asserts" />
+      <recent name="D:\SpringBootTest\src\main\resources\static\asserts\bootstrap" />
+      <recent name="D:\SpringBootTest\src\main\resources\static\asserts\img" />
+      <recent name="D:\SpringBootTest\src\main\resources\static" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ccut.qinrushi.controller" />
+      <recent name="ccut.qinrushi.componet" />
+      <recent name="ccut.qinrushi.config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SpringBootTest\src\main\resources\static\asserts\css" />
+      <recent name="D:\SpringBootTest\src\main\resources\static" />
+      <recent name="D:\SpringBootTest\src\main\resources\templates" />
+      <recent name="D:\SpringBootTest\src\main\resources\static\asserts\js" />
+      <recent name="D:\SpringBootTest\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.StudentCrulApplication">
+    <configuration name="All in SpringBootTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBootTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in SpringBootTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpringBootTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentCrulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="SpringBootTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ccut.qinrushi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ccut.qinrushi.StudentCrulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentcrulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBootTest" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ccut.qinrushi.StudentcrulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.StudentCrulApplication" />
+        <item itemvalue="JUnit.All in SpringBootTest (1)" />
+        <item itemvalue="JUnit.All in SpringBootTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c31836c-f626-4626-b505-e2df25f36669" name="Default Changelist" comment="" />
+      <created>1569987687608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569987687608</updated>
+      <workItem from="1569987691515" duration="6464000" />
+      <workItem from="1570598852064" duration="10154000" />
+      <workItem from="1570609044841" duration="2070000" />
+      <workItem from="1570611159791" duration="18874000" />
+      <workItem from="1571021743151" duration="8255000" />
+      <workItem from="1571216296587" duration="75000" />
+      <workItem from="1571216483707" duration="224000" />
+      <workItem from="1571217118271" duration="22379000" />
+      <workItem from="1571621955618" duration="9962000" />
+      <workItem from="1571641809512" duration="1012000" />
+      <workItem from="1571642894749" duration="7430000" />
+      <workItem from="1571653536263" duration="337000" />
+      <workItem from="1571653940000" duration="64000" />
+      <workItem from="1571654022435" duration="10954000" />
+      <workItem from="1571819075185" duration="54086000" />
+      <workItem from="1572238344293" duration="2131000" />
+      <workItem from="1572437433656" duration="2187000" />
+      <workItem from="1572518743155" duration="964000" />
+      <workItem from="1573058083706" duration="23209000" />
+      <workItem from="1574159139514" duration="16067000" />
+      <workItem from="1574666456214" duration="29426000" />
+      <workItem from="1575077528567" duration="8262000" />
+      <workItem from="1575271223841" duration="14738000" />
+      <workItem from="1575347829473" duration="766000" />
+      <workItem from="1575355917886" duration="674000" />
+      <workItem from="1575359527734" duration="3109000" />
+      <workItem from="1575440667211" duration="18517000" />
+      <workItem from="1575507252047" duration="2776000" />
+      <workItem from="1575601050784" duration="18000" />
+      <workItem from="1575623448349" duration="2236000" />
+      <workItem from="1575693082774" duration="2279000" />
+      <workItem from="1575789835191" duration="2460000" />
+      <workItem from="1577085715154" duration="692000" />
+      <workItem from="1577516658852" duration="21767000" />
+      <workItem from="1577616719090" duration="1795000" />
+      <workItem from="1577671624542" duration="1484000" />
+      <workItem from="1577707647990" duration="127000" />
+      <workItem from="1577978247182" duration="313000" />
+      <workItem from="1578298818616" duration="1315000" />
+      <workItem from="1578377449520" duration="9089000" />
+      <workItem from="1578404587124" duration="1229000" />
+      <workItem from="1578471589355" duration="1973000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
